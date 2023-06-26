@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **The BotMinds**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **HTML, CSS, TAILWINDCSS, DJANGO, SQL, POSTGRESQL, ORACLE, PYTHON**
 
