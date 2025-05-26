@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **The BotMinds**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML and Robotics**
 
-- 💬 Ask me about **HTML, CSS, TAILWINDCSS, DJANGO, SQL, POSTGRESQL, ORACLE, PYTHON**
+- 💬 Ask me about **HTML, CSS, TAILWINDCSS, DJANGO, SQL, POSTGRESQL, ORACLE, PYTHON, Arduino, Raspberry Pi, Robotics, AI/ML**
 
 - 📫 How to reach me **srijankhadkajr11@gmail.com**
 
