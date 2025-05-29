@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, TAILWINDCSS, DJANGO, SQL, POSTGRESQL, ORACLE, PYTHON, Arduino, Raspberry Pi, Robotics, AI/ML**
 
-- 📫 How to reach me **srijankhadkajr11@gmail.com**
+- 📫 How to reach me **srijankhadkajr11@gmail.com, www.srijankhadka.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
