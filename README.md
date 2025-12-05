@@ -1,13 +1,14 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Er. Srijan Khadka</h1>
-<h3 align="center">A passionate Engineer</h3>
+<h3 align="center">Electronics, Communication and Information Engineer</h3>
+<h3 align="center">Aspiring Data Engineer | SQL & ETL Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjr11&label=Profile%20views&color=0e75b6&style=flat" alt="sjr11" /> </p>
 
 - 🔭 I’m currently working on **The BotMinds**
 
-- 🌱 I’m currently learning **AI/ML and Robotics**
+- 🌱 I’m currently learning **Data Engineering, Data Science, AI & Robotics**
 
 - 💬 Ask me about **HTML, CSS, TAILWINDCSS, DJANGO, SQL, POSTGRESQL, ORACLE, PYTHON, Arduino, Raspberry Pi, Robotics, AI/ML**
 
